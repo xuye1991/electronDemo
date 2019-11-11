@@ -1,0 +1,9 @@
+{
+  "name": "rsa-modality",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron-updater": "^4.0.0",
+    "getmac": "^1.4.6"
+  }
+}

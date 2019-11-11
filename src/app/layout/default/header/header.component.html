@@ -1,0 +1,27 @@
+
+<div class="alain-default__nav-wrap">
+  <ul class="alain-default__nav">
+    <!-- Menu -->
+    <li>
+      <!-- <div class="alain-default__nav-item" (click)="toggleCollapsedSidebar()">
+        <i class="anticon anticon-menu-{{settings.layout.collapsed ? 'unfold' : 'fold'}}"></i>
+      </div> -->
+    </li>
+   <div class="alain-default__header-logo">
+          <a [routerLink]="['/']" class="alain-default__header-logo-link">
+            <!-- <img class="alain-default__header-logo-expanded" src="./assets/logo-full.svg" alt="{{settings.app.name}}" style="max-height:40px;" /> -->
+            <!-- <img class="alain-default__header-logo-collapsed" src="./assets/logo.svg" alt="{{settings.app.name}}" style="max-height:30px;" /> -->
+            <img class="alain-default__header-logo-expanded" src="./assets/png/logo_shl.png"  style="height:32px !important; width: 137px !important;line-height:1 !important"  /> 
+           <img class="alain-default__header-logo-collapsed" src="./assets/png/logo_shl.png"   style="height:32px !important; width: 137px !important;line-height:1 !important" /> 
+           <label style="margin-left: 20px; color:#fff;font-size: 24px;"> </label>
+          </a>
+        </div>
+  </ul> 
+
+  <ul class="alain-default__nav">
+ 
+    <li class="hidden-mobile">
+      <header-user></header-user>
+    </li>
+  </ul>
+</div>
