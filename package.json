@@ -60,7 +60,7 @@
     "screenfull": "^3.3.1",
     "stylelint": "^9.2.0",
     "stylelint-config-standard": "^18.2.0",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "terser": "3.14.1",
     "trtc-js-sdk": "^4.2.0",
     "tslint-config-prettier": "^1.12.0",
