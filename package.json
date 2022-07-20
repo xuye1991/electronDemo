@@ -61,7 +61,7 @@
     "stylelint": "^9.2.0",
     "stylelint-config-standard": "^18.2.0",
     "swiper": "^4.5.0",
-    "terser": "3.14.1",
+    "terser": "4.8.1",
     "trtc-js-sdk": "^4.2.0",
     "tslint-config-prettier": "^1.12.0",
     "tslint-language-service": "^0.9.9",
